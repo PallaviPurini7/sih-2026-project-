@@ -8,7 +8,7 @@
 
 ## Our solution
 so what we built is something that detects the anomalies and what kind are there like in funds misuse or in cost estimation or duplicate works or delayed projects .A web platform of portal that scores every MPLADS project for risk, flags anomalies,and routes alerts to the right stakeholders through a dashboard. the dashboard can be monitored all the time by  admin 
-
+RR
 we have a live score , where the project can be entered , and you can get the analysis in complete of that 
 
 **Key features**
