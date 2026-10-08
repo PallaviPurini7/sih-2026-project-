@@ -33,12 +33,6 @@ we have a live score , where the project can be entered , and you can get the an
 - **Database:** SQL (projects, alerts, stakeholders tables)
 - **Data:** data.gov.in MPLADS datasets
 
-## Team & contributions
-| Member | Role | Contribution |
-|---|---|---|
-| [Team lead] | Web development, pitch | Built the web application, presented the solution |
-| **[Your name]** | **ML & data** | See below |
-| [others] | [role] | [contribution] |
 
 ### My contribution (ML, data and documentation)
 - **Data layer:** Built a synthetic dataset generator anchored on real
@@ -67,13 +61,8 @@ we have a live score , where the project can be entered , and you can get the an
 | Duplicate detection | 100% recall, 82.3% precision |
 | Overall F1 | 0.64 |
 
-*Evaluated on a synthetic dataset built with real MPLADS statistics as
-anchors, since real fraud labels aren't publicly available.*
 
-## Known limitations
-- Delayed/stalled detection is capped at 76% recall because delay is a
-  spectrum, unlike the binary-violation types.
-- Real-world validation needs actual audit-labelled data.
+
 
 ## How to run
 ```bash
